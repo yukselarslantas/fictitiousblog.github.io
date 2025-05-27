@@ -3,7 +3,7 @@ permalink: /news/
 title: "News"
 author_profile: true
 
---
+---
 
 - 🎉 *(May 2025)* Our paper "Convergence of Heterogeneous Learning Dynamics in Zero-sum Stochastic Games" has been accepted for publication in the **IEEE Transactions on Automatic Control (IEEE TAC)**!
   
