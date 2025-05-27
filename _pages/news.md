@@ -3,7 +3,11 @@ permalink: /news/
 title: "News"
 author_profile: true
 
----
+--
+
+- 🎉 *(May 2025)* Our paper "Convergence of Heterogeneous Learning Dynamics in Zero-sum Stochastic Games" has been accepted for publication in the **IEEE Transactions on Automatic Control (IEEE TAC)**!
+- 
+- *(December 2024)* I presented our paper ["Strategic Control of Experience-Weighted Attraction Model in Human-AI Interactions"](https://www.sciencedirect.com/science/article/pii/S2405896325001636) at the 5th IFAC Workshop on Cyber-Physical & Human Systems (CPHS 2024) held in Antalya, Turkey.
 
 - 🎉 *(September 2024)* Our paper "Team-Fictitious Play for Reaching Team-Nash Equilibrium in Multi-team Games" has been accepted for presentation at the **[NeurIPS 2024](https://neurips.cc/virtual/2024/poster/96521)**!
 
