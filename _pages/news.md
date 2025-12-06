@@ -4,6 +4,7 @@ title: "News"
 author_profile: true
 
 ---
+- *(December 2025)* Our latest preprint, co-authored by me (Yuksel Arslantas), along with Ahmed Said Donmez, Ege Yuceel, and Muhammed Sayin, is now live on arXiv! The paper is titled '[Omniscient Attacker in Stochastic Security Games with Interdependent Nodes](https://arxiv.org/abs/2512.04561)' and you can check it out at arXiv:2512.04561.
 
 - 🎉 *(May 2025)* Our paper "Convergence of Heterogeneous Learning Dynamics in Zero-sum Stochastic Games" has been accepted for publication in the **IEEE Transactions on Automatic Control (IEEE TAC)**!
   
